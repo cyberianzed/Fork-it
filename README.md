@@ -21,5 +21,6 @@
 - Wait for someone to review the changes. After review, the maintainer will either
   merge your changes or suggest changes if required. 
 ## References
+- [Git Commands Repo](https://github.com/reenphygeorge/Git-Commands)
 - [Git Cheatsheet](https://training.github.com/downloads/github-git-cheat-sheet/)
 - [Git Documentation](https://git-scm.com/docs/)
