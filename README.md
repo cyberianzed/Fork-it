@@ -1,4 +1,5 @@
 # Fork-it
+A session on basic Git and Github by DSC SJCET
 
 ## Pre-requisites
 - Install Git on your computer. Instructions for installing Git on:
