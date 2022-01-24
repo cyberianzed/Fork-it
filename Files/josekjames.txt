@@ -1,4 +1,4 @@
 Name: Jose K James
 Desc: Btech Student
 College: SJCET
-Year: 2
+Year: 2nd Year
